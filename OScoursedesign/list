@@ -1,0 +1,7 @@
+#include"stdio.h"
+#include"stdlib.h"
+void mian()
+{
+int a=8;
+print(a);
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436282596 source:/home/blacker/Git/repositories/OS-course-design/OS-course-design_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
